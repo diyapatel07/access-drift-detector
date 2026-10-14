@@ -1,0 +1,3 @@
+employee_id,employee_name,role,flagged_permission,status,reason
+E002,Meera,HR Executive,financial_reports,Pending Review,Not in standard role permissions or approved exceptions
+E002,Meera,HR Executive,customer_database,Pending Review,Not in standard role permissions or approved exceptions
