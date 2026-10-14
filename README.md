@@ -51,5 +51,4 @@ This project aims to **detect access drift** by identifying permissions assigned
 
 ---
 
-### ⚠️ Not
-This prototype uses fictional employee data. Flagged permissions indicate items for **human review**, not au
+#
